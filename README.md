@@ -14,12 +14,12 @@ This is a basic interpreter for a mathematical language.
   ## Math Operations
     +, -, /, *
     SIN() COS(), TAN(), ABS(), SQRT()
-  ## Helpful functions
+  ## Helpful Functions
     - HELP() displays all this information about language
     - VARS() displays information about all set variables
     - EXIT() cleans up memory and exits the interpreter
-  ## An example of use can be found here
-  
+  ## Usage Example
+    ![alt text](http://evanputnam.com/wp-content/uploads/2018/01/Screen-Shot-2018-01-04-at-3.34.47-AM.png "Description goes here")
  
 
 
