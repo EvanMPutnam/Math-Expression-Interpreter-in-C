@@ -19,7 +19,7 @@ This is a basic interpreter for a mathematical language.
     - VARS() displays information about all set variables
     - EXIT() cleans up memory and exits the interpreter
   ## Usage Example
-    ![alt tag](http://evanputnam.com/wp-content/uploads/2018/01/Screen-Shot-2018-01-04-at-3.34.47-AM.png "Description goes here")
+![alt tag](http://evanputnam.com/wp-content/uploads/2018/01/Screen-Shot-2018-01-04-at-3.34.47-AM.png "Description goes here")
  
 
 
