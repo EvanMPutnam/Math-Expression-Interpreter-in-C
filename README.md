@@ -12,8 +12,8 @@ This is a basic interpreter for a mathematical language.
   ## Display
     Type into the console the name of the variable or an expression
   ## Math Operations
-    - +, -, /, *
-    - SIN() COS(), TAN(), ABS(), SQRT()
+    +, -, /, *
+    SIN() COS(), TAN(), ABS(), SQRT()
   ## Helpful functions
     - HELP() displays all this information about language
     - VARS() displays information about all set variables
