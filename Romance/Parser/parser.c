@@ -124,7 +124,7 @@ void startParseing(Table* t){
             printf("Other Notes:\n");
             printf("    You can include parenthesis if they are matched correctly\n");
             printf("    No extensive error checking has been done so it will crash on invalid expressions\n");
-            
+            continue;
         }
         
         
