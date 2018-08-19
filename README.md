@@ -1,4 +1,4 @@
-# Math-Expression-Interpreter-in-C
+# Math-Expression-Interpreter
 A Math Expression Interpreter in C
 
 This is a basic interpreter for a mathematical language.  I named it Romance, after the movie True Romance.  Everything needs a name...  
@@ -26,10 +26,10 @@ This was an experiment in making a simple interpreter in the C language(And in t
 The biggest difficulties I found ironically were not related to dynamic storage but instead string manipulation.
 A lot of the string manipulation stuff is a pain in C where in JAVA where you have very nice functions like split or
 strip with regular expressions to help out.  It was also a challenge doing a lot of this without classes because, while
-structs are great and provide a lot of functionality, lack of encapsulation, inheritance, and polymorphism are things that I am just so used to now.
+structs are great and provide a lot of functionality, lack of encapsulation, inheritance, and polymorphism are things that I am just so used to now.  However, now after taking a class on compiler/interpreter design I realized I could have made this a lot better by adding some sort of lexer/parser and making abstract syntax trees to evaluate expressions.  Maybe in the future I will come back to this project.
 
 # Data Structures
-Also I had to create my own data structures for this particular project.
+I creaded a number of my own data structures for this particular project.
 - Stack
 - Queue
 - Hash Table - adapted from a version I wrote for my mechanics class
@@ -38,6 +38,4 @@ They gave me a lot of functionality and they were needed for things like variabl
 handling the shunting yard algorithm.
 
 
-# Notice
-Note that I have not done extensive error checking and it may crash if certain invalid expressions are entered.
 
