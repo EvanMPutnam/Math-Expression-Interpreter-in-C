@@ -1,7 +1,7 @@
 # Math-Expression-Interpreter-in-C
 A Math Expression Interpreter in C
 
-This is a basic interpreter for a mathematical language.
+This is a basic interpreter for a mathematical language.  I named it Romance, after the movie True Romance.  Everything needs a name...  
 
 # Language Features
 
