@@ -1,7 +1,5 @@
-# Romance-a-Math-Expression-Interpreter-in-C
+# Math-Expression-Interpreter-in-C
 A Math Expression Interpreter in C
-
-I decided to name this Romance after the movie True Romance, one of my favorites.  Every language needs a name and this ones is Romance.
 
 This is a basic interpreter for a mathematical language.
 
